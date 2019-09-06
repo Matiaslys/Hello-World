@@ -1,2 +1,2 @@
 # Hello-World
-hello my name is matias and im a boy
+hello my name is Matias
